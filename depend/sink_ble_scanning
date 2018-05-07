@@ -1,0 +1,2 @@
+sink_ble_scanning.o: sink_ble_scanning.c \
+  D:/ADK3.5/tools/include/standard/csrtypes.h
